@@ -1,6 +1,6 @@
 class Creds():
     # ENTER Your bot Token Here
-    TG_TOKEN = ""
+    TG_TOKEN = "1368042162:AAHtSU6Qs1tD0O11QzYqLw2gcr5LqHlntGs"
     
     
     
@@ -11,7 +11,7 @@ class Creds():
     TEAMDRIVE_FOLDER_ID = ""
     
     # Id of Team drive 
-    TEAMDRIVE_ID = ""
+    TEAMDRIVE_ID = "0AIimOE5SgJqxUk9PVA"
     
     
     
